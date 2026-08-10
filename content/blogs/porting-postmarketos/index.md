@@ -47,7 +47,7 @@ Ain’t that cool?
 The birth of postmarketOS project is a _gamechanger_. PostmarketOS has a community where people, in a collaborative spirit, try to bring Linux to various devices. Thanks to this, I was able to port postmarketOS onto one of these devices. What I expected to be a full messy steps to do, was done only on 2 days, assuming that I have no prior knowledge about `pmbootstrap`.
 
 
-### Samsung Galaxy J4
+## Samsung Galaxy J4
 
 
 The first device I ported onto is Samsung Galaxy J4. It has Exynos 7570 SoC, brutally similar to Exynos 7870. It’s safe to say that Exynos 7570 is the lower spec of Exynos 7870. Though Samsung did modify some parts, but still, they were like siblings. With that, I could use Exynos 7870 configurations as references.
@@ -56,7 +56,7 @@ The first device I ported onto is Samsung Galaxy J4. It has Exynos 7570 SoC, bru
 Also, there’s an existing port for Samsung Galaxy Xcover4 (2017, codenamed `xcover4lte`), which uses Exynos 7570. I could just copy over the `xcover4lte` device & kernel configurations, rename it to `j4lte`, adjust some values, and _voila_! Things couldn’t have been more easier :D
 
 
-### Samsung Galaxy A51
+## Samsung Galaxy A51
 
 
 I wrote a post about porting postmarketOS onto Samsung Galaxy A51 [here](https://manoedinata.github.io/blogs/postmarketos-on-samsung-galaxy-a51/). Check it out!
